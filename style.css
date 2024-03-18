@@ -1,3 +1,11 @@
 .haiku{
     font-size: 20px;
 }
+  
+  #generate {
+    bottom: 20px; 
+    right: 20px; 
+    width: 150px;
+    height: 50px; 
+    font-size: 1.2em;
+  }
